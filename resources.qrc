@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/login.png</file>
+        <file>resources/down.png</file>
+        <file>resources/left.png</file>
+        <file>resources/right.png</file>
+        <file>resources/up.png</file>
+        <file>resources/actionPopupMainMenu.png</file>
+        <file>resources/actionSync@2x.png</file>
+        <file>resources/actionSync.png</file>
+        <file>resources/actionGoBack.png</file>
+        <file>resources/actionGoForward.png</file>
+    </qresource>
+</RCC>
